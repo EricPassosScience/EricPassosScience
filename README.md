@@ -1,7 +1,7 @@
 ### Olá, eu sou o Eric Passos
 
 - 🔭 Hoje trabalho com Ciência de Dados
-- 🌱 Estudando Linguagem R com o Microsoft Azure
+- 🌱 Estudando Linguagem R e Microsoft Azure
 - 👯 Contate-me no e-mail: advericpassos@hotmail.com
 
 <div align="center">
