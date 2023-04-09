@@ -1,6 +1,6 @@
 ### Olá, eu sou o Eric Passos
 
-- 🔭 Hoje trabalho com Ciência de Dados
+- 🔭 Data Scientist at Dataside
 - 👯 Contate-me no e-mail: advericpassos@hotmail.com
 
 <div align="center">
