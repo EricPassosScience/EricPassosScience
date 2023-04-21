@@ -1,6 +1,7 @@
 ### Olá, eu sou o Eric Passos
 
-- 🔭 Data Scientist at Dataside
+- 🔭 Data Scientist Jr. at Dataside
+- Conteúdos em Portugues (nativo), Espanhol e Inglês
 - 👯 Contate-me no e-mail: advericpassos@hotmail.com
 
 <div align="center">
